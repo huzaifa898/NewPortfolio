@@ -15,7 +15,7 @@ export default function AnimatedSectionHeader({ title }: AnimatedSectionHeaderPr
       viewport={{ once: true }}
       transition={{ duration: 0.5 }}
     >
-      {title}
+      {title}  
     </motion.h2>
   )
 }
