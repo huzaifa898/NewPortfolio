@@ -45,13 +45,13 @@ export default function Hero() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6 }}
           >
-            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-purple-600 dark:from-blue-400 dark:to-purple-400">
+            <h1 className="text-4xl md:text-5xl lg:text-6xl font-Chakra Petch mb-6 bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-purple-600 dark:from-blue-400 dark:to-purple-400">
               HUZAIFA TARIQ
             </h1>
-            <h2 className="text-2xl md:text-3xl font-semibold mb-6 text-gray-700 dark:text-gray-300">
+            <h2 className="text-2xl md:text-3xl font-Chakra Petch Mk2 mb-6 text-gray-700 dark:text-gray-300">
               SOFTWARE ENGINEER
             </h2>
-            <p className="text-lg md:text-xl text-gray-600 dark:text-gray-400 mb-8 max-w-2xl mx-auto lg:mx-0 text-justify leading-tight">
+            <p className="text-lg md:text-xl font-Chakra Petch text-gray-600 dark:text-gray-400 mb-8 max-w-2xl mx-auto lg:mx-0 text-justify leading-tight">
               Crafting exceptional digital experiences with modern web technologies.
               Specialized in building scalable frontend applications using React.js, Next.js, and modern UI frameworks.
               Skilled in Quality Assurance, with a strong focus on testing, validation, and delivering reliable software.
